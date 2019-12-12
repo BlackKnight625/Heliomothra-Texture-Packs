@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_pickaxe"
+    },
+
+"overrides": [
+	{"predicate": {"damage": 0.9847},               "model": "item/prismarine_pickaxe"},
+        {"predicate": {"damage": 0.9923},               "model": "item/copper_pickaxe"}
+    ]
+}

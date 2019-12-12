@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    }
+,
+
+"overrides": [
+	{"predicate": {"damage": 0.6374},               "model": "item/onyx_axe"},
+        {"predicate": {"damage": 0.6406},               "model": "item/mithril_axe"},
+	{"predicate": {"damage": 0.9993},               "model": "item/copper_spear"}
+    ]}

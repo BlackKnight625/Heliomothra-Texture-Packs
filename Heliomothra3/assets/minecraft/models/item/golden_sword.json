@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+
+"overrides": [
+        {"predicate": {"damage": 0.9687},               "model": "item/tin_sword"}
+    ]
+}

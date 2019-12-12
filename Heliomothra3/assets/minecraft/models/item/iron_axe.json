@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    }
+,
+
+"overrides": [
+	{"predicate": {"damage": 0.9920},               "model": "item/quartz_axe"},
+        {"predicate": {"damage": 0.9960},               "model": "item/bronze_axe"}
+    ]}
