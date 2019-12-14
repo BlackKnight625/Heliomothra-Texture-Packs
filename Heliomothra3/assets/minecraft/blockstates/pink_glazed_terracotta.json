@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/copper_ore" },
+        "facing=west": { "model": "block/tin_ore" },
+        "facing=north": { "model": "block/mithril_ore" },
+        "facing=east": { "model": "block/onyx_ore" }
+    }
+}
