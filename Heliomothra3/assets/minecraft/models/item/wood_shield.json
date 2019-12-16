@@ -71,7 +71,7 @@
             "predicate": {
                 "blocking": 1
             },
-            "model": "item/wood_shield_blocking"
+            "model": "item/shield_blocking"
         }
     ]
 }
