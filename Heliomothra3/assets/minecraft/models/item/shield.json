@@ -41,8 +41,6 @@
         }
     },
     "overrides": [
-	{"predicate": {"custom_model_data":625}, "model": "item/wood_shield"},
-
-        {"predicate": {"blocking": 1}, "model": "item/shield_blocking"}	
+	{"predicate": {"custom_model_data":625}, "model": "item/wood_shield"}
     ]
 }
