@@ -54,7 +54,7 @@
 			"east": { "uv": [0, 0, 16, 16], "texture": "#texture"}
 		}
 	}
-    ]
+    ],
     "overrides": [
         {
             "predicate": {
