@@ -1,7 +1,7 @@
 {
-    "parent": "builtin/entity",
     "textures": {
-        "particle": "block/dark_oak_planks"
+        "particle": "block/prismarine_brick",
+	"texture": "block/prismarine_blick"
     },
     "display": {
         "thirdperson_righthand": {
@@ -40,20 +40,38 @@
             "scale":[ 0.25, 0.25, 0.25]
         }
     },
+    "elements": [
+	{
+		"from": [-6, -11, 1],
+		"to": [6, 5, 2],
+		"faces": {
+			"down": { "uv": [0, 0, 12, 1], "texture": "#texture"},
+			"up": { "uv": [0, 0, 12, 1], "texture": "#texture"},
+			"north": { "uv": [0, 0, 12, 16], "texture": "#texture"},
+			"south": { "uv": [0, 0, 12, 16], "texture": "#texture"},
+			"west": { "uv": [0, 0, 1, 16], "texture": "#texture"},
+			"east": { "uv": [0, 0, 1, 16], "texture": "#texture"}
+		}
+    },
+    {
+        "from": [-6, 5, 1],
+        "to": [6, 11, 2],
+        "faces": {
+			"down": { "uv": [0, 0, 12, 1], "texture": "#texture"},
+			"up": { "uv": [0, 0, 12, 1], "texture": "#texture"},
+			"north": { "uv": [0, 10, 12, 16], "texture": "#texture"},
+			"south": { "uv": [0, 10, 12, 16], "texture": "#texture"},
+			"west": { "uv": [0, 0, 1, 6], "texture": "#texture"},
+			"east": { "uv": [0, 0, 1, 6], "texture": "#texture"}
+		}
+    }
+    ],
     "overrides": [
-	{"predicate": {"blocking":1}, "model": "item/wood_shield_blocking"},
-    {"predicate": {"custom_model_data":625}, "model": "item/wood_shield"},
-    {"predicate": {"custom_model_data":627}, "model": "item/gold_shield"},
-    {"predicate": {"custom_model_data":628}, "model": "item/tin_shield"},
-    {"predicate": {"custom_model_data":629}, "model": "item/copper_shield"},
-    {"predicate": {"custom_model_data":630}, "model": "item/bronze_shield"},
-    {"predicate": {"custom_model_data":632}, "model": "item/iron_shield"},
-    {"predicate": {"custom_model_data":633}, "model": "item/prismarine_shield"},
-    {"predicate": {"custom_model_data":634}, "model": "item/quartz_shield"},
-    {"predicate": {"custom_model_data":635}, "model": "item/mithril_shield"},
-    {"predicate": {"custom_model_data":636}, "model": "item/adamantium_shield"},
-    {"predicate": {"custom_model_data":637}, "model": "item/diamond_shield"},
-    {"predicate": {"custom_model_data":638}, "model": "item/onyx_shield"},
-    {"predicate": {"custom_model_data":639}, "model": "item/heliocolium_shield"}
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/shield_blocking"
+        }
     ]
 }
