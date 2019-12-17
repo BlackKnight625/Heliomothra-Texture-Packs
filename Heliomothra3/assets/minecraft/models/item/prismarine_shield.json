@@ -1,7 +1,7 @@
 {
     "textures": {
-        "particle": "block/prismarine_brick",
-	"texture": "block/prismarine_blick"
+        "particle": "block/prismarine_bricks",
+	"texture": "block/prismarine_blicks"
     },
     "display": {
         "thirdperson_righthand": {
