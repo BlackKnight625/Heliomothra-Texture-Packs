@@ -5,7 +5,7 @@
     },
 
 "overrides": [
-	{"predicate": {"damage": 0.9847},               "model": "item/prismarine_pickaxe"},
-        {"predicate": {"damage": 0.9923},               "model": "item/copper_pickaxe"}
+	{"predicate": {"custom_model_data": 629},               "model": "item/copper_pickaxe"},
+        {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_pickaxe"}
     ]
 }
