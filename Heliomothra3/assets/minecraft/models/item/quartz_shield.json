@@ -1,7 +1,7 @@
 {
     "textures": {
-        "particle": "block/quartz_block",
-	"texture": "block/quartz_block"
+        "particle": "block/smooth_quartz",
+	"texture": "block/smooth_quartz"
     },
     "display": {
         "thirdperson_righthand": {

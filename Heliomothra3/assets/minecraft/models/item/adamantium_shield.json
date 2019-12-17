@@ -1,7 +1,7 @@
 {
     "textures": {
-        "particle": "block/gold_block",
-	"texture": "block/gold_block"
+        "particle": "block/adamantium_block",
+	"texture": "block/adamantium_block"
     },
     "display": {
         "thirdperson_righthand": {
