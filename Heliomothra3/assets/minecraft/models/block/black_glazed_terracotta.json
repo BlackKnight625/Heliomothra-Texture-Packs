@@ -1,0 +1,14 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/black_glazed_terracota"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 629
+            },
+            "model": "block/copper_ore"
+        }
+    ]
+}
