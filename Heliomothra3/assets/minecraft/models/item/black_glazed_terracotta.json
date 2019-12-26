@@ -1,8 +1,5 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/black_glazed_terracota"
-    },
+    "parent": "block/black_glazed_terracotta",
     "overrides": [
         {
             "predicate": {
