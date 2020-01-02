@@ -6,7 +6,7 @@
 ,
 
 "overrides": [
-	{"predicate": {"custom_model_data": 625},               "model": "item/wooden_spear"},
+	    {"predicate": {"custom_model_data": 625},               "model": "item/wooden_spear"},
         {"predicate": {"custom_model_data": 626},               "model": "item/stone_spear"},
         {"predicate": {"custom_model_data": 627},               "model": "item/golden_spear"},
         {"predicate": {"custom_model_data": 628},               "model": "item/tin_spear"},
