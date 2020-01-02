@@ -5,7 +5,8 @@
     },
 
 "overrides": [
-	{"predicate": {"custom_model_data": 629},               "model": "item/copper_pickaxe"},
-        {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_pickaxe"}
+    {"predicate": {"custom_model_data": 629},               "model": "item/copper_pickaxe"},
+    {"predicate": {"custom_model_data": 630},               "model": "item/bronze_pickaxe"},
+    {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_pickaxe"}
     ]
 }
