@@ -8,6 +8,7 @@
 
 "overrides": [
     {"predicate": {"custom_model_data": 628},               "model": "item/tin_sword"},
-    {"predicate": {"custom_model_data": 635},               "model": "item/mithril_sword"}
+    {"predicate": {"custom_model_data": 635},               "model": "item/mithril_sword"},
+    {"predicate": {"custom_model_data": 637},               "model": "item/diamond_sword"}
     ]
 }
