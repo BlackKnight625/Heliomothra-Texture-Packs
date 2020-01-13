@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_hoe"
+    },
+
+"overrides": [
+    {"predicate": {"custom_model_data": 629},               "model": "item/copper_hoe"},
+    {"predicate": {"custom_model_data": 630},               "model": "item/bronze_hoe"},
+    {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_hoe"}
+    ]
+}

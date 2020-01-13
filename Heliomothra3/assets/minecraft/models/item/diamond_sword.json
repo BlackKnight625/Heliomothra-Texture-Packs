@@ -7,6 +7,7 @@
 ,
 
 "overrides": [
-	{"predicate": {"damage": 0.6374},               "model": "item/onyx_sword"},
-        {"predicate": {"damage": 0.6406},               "model": "item/mithril_sword"}
-    ]}
+    {"predicate": {"custom_model_data": 628},               "model": "item/tin_sword"},
+    {"predicate": {"custom_model_data": 635},               "model": "item/mithril_sword"}
+    ]
+}

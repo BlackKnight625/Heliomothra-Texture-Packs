@@ -5,7 +5,8 @@
     },
 
 "overrides": [
-	{"predicate": {"damage": 0.9847},               "model": "item/prismarine_sword"},
-        {"predicate": {"damage": 0.9923},               "model": "item/copper_sword"}
+    {"predicate": {"custom_model_data": 629},               "model": "item/copper_sword"},
+    {"predicate": {"custom_model_data": 630},               "model": "item/bronze_sword"},
+    {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_sword"}
     ]
 }

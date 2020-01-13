@@ -4,7 +4,8 @@
         "layer0": "item/golden_pickaxe"
     },
 
-"overrides": [
-        {"predicate": {"damage": 0.9687},               "model": "item/tin_pickaxe"}
-    ]
+    "overrides": [
+        {"predicate": {"custom_model_data": 638},               "model": "item/onyx_pickaxe"},
+        {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_pickaxe"}
+        ]
 }

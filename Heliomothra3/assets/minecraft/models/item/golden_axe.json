@@ -2,9 +2,10 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/golden_axe"
-    }
-,
+    },
 
-"overrides": [
-        {"predicate": {"damage": 0.9687},               "model": "item/tin_axe"}
-    ]}
+    "overrides": [
+        {"predicate": {"custom_model_data": 638},               "model": "item/onyx_axe"},
+        {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_axe"}
+        ]
+}

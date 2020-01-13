@@ -2,10 +2,11 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/stone_axe"
-    }
-,
+    },
 
 "overrides": [
-	{"predicate": {"damage": 0.9847},               "model": "item/prismarine_axe"},
-        {"predicate": {"damage": 0.9923},               "model": "item/copper_axe"}
-    ]}
+    {"predicate": {"custom_model_data": 629},               "model": "item/copper_axe"},
+    {"predicate": {"custom_model_data": 630},               "model": "item/bronze_axe"},
+    {"predicate": {"custom_model_data": 633},               "model": "item/prismarine_axe"}
+    ]
+}

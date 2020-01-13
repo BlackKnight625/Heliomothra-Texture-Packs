@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/mythril_axe"
+        "layer0": "item/mithril_axe"
     }
 }

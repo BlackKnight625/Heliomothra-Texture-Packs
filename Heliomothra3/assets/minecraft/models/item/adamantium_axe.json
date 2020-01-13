@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/copper_sword"
+        "layer0": "item/adamantium_axe"
     }
 }

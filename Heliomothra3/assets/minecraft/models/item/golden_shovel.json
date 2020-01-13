@@ -2,9 +2,10 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/golden_shovel"
-    }
-,
+    },
 
-"overrides": [
-        {"predicate": {"damage": 0.9687},               "model": "item/tin_shovel"}
-    ]}
+    "overrides": [
+        {"predicate": {"custom_model_data": 638},               "model": "item/onyx_shovel"},
+        {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_shovel"}
+        ]
+}

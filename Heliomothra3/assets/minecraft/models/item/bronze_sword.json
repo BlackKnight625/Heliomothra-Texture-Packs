@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/sword_bronze"
+        "layer0": "item/bronze_sword"
     }
 }
