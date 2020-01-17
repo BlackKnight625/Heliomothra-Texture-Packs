@@ -44,8 +44,6 @@
         {"predicate": {"custom_model_data": 636, "throwing": 1},               "model": "item/adamantium_spear_throwing"},
         {"predicate": {"custom_model_data": 637, "throwing": 1},               "model": "item/diamond_spear_throwing"},
         {"predicate": {"custom_model_data": 638, "throwing": 1},               "model": "item/onyx_spear_throwing"},
-        {"predicate": {"custom_model_data": 639, "throwing": 1},               "model": "item/heliocolium_spear_throwing"}
-
-        
+        {"predicate": {"custom_model_data": 639, "throwing": 1},               "model": "item/heliocolium_spear_throwing"}      
     ]
 }
