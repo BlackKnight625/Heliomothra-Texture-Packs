@@ -2,7 +2,7 @@
     "providers": [
         {
             "type:": "bitmap",
-            "file:": "minecraft:item/diamond_sword.png",
+            "file:": "minecraft:item/apple.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE000"]
