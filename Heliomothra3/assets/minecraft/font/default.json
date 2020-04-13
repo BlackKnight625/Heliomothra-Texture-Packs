@@ -5,7 +5,7 @@
             "file:": "minecraft:item/apple.png",
             "ascent": 9,
             "height": 9,
-            "chars": ["\u00A1"]
+            "chars": ["\uE000"]
         }
     ]
 }
