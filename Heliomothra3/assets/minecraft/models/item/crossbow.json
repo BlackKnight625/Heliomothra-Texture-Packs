@@ -1,0 +1,115 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 625},                              "model": "item/crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 627},                              "model": "item/gold_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 628},                              "model": "item/tin_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 629},                              "model": "item/copper_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 630},                              "model": "item/bronze_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 632},                              "model": "item/iron_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 633},                              "model": "item/prismarine_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 634},                              "model": "item/quartz_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 635},                              "model": "item/mithril_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 636},                              "model": "item/adamantium_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 637},                              "model": "item/diamond_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 638},                              "model": "item/onyx_crossbow_standby"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 639},                              "model": "item/heliocolium_crossbow_standby"},
+
+        {"predicate": {"pulling": 1, "custom_model_data": 625},                              "model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 627},                              "model": "item/gold_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 628},                              "model": "item/tin_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 629},                              "model": "item/copper_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 630},                              "model": "item/bronze_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 632},                              "model": "item/iron_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 633},                              "model": "item/prismarine_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 634},                              "model": "item/quartz_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 635},                              "model": "item/mithril_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 636},                              "model": "item/adamantium_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 637},                              "model": "item/diamond_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 638},                              "model": "item/onyx_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 639},                              "model": "item/heliocolium_crossbow_pulling_0"},
+
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 625},                "model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 627},                "model": "item/gold_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 628},                "model": "item/tin_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 629},                "model": "item/copper_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 630},                "model": "item/bronze_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 632},                "model": "item/iron_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 633},                "model": "item/prismarine_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 634},                "model": "item/quartz_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 635},                "model": "item/mithril_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 636},                "model": "item/adamantium_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 637},                "model": "item/diamond_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 638},                "model": "item/onyx_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_pulling_1"},
+
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 625},                "model": "item/crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 627},                "model": "item/gold_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 628},                "model": "item/tin_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 629},                "model": "item/copper_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 630},                "model": "item/bronze_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 632},                "model": "item/iron_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 633},                "model": "item/prismarine_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 634},                "model": "item/quartz_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 635},                "model": "item/mithril_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 636},                "model": "item/adamantium_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 637},                "model": "item/diamond_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 638},                "model": "item/onyx_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_pulling_2"},
+
+        {"predicate": {"charged": 1, "custom_model_data": 625},                "model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 627},                "model": "item/gold_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 628},                "model": "item/tin_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 629},                "model": "item/copper_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 630},                "model": "item/bronze_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 632},                "model": "item/iron_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 633},                "model": "item/prismarine_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 634},                "model": "item/quartz_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 635},                "model": "item/mithril_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 636},                "model": "item/adamantium_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 637},                "model": "item/diamond_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 638},                "model": "item/onyx_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_arrow"},
+
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 625},                "model": "item/crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 627},                "model": "item/gold_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 628},                "model": "item/tin_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 629},                "model": "item/copper_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 630},                "model": "item/bronze_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 632},                "model": "item/iron_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 633},                "model": "item/prismarine_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 634},                "model": "item/quartz_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 635},                "model": "item/mithril_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 636},                "model": "item/adamantium_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 637},                "model": "item/diamond_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 638},                "model": "item/onyx_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_firework"},
+
+        {"predicate": {"charged": 1, "firework": 1},"model": "item/crossbow_firework"}
+    ]
+}
