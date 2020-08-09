@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/crossbow"
+        "layer0": "item/crossbow_standby"
     },
     "display": {
         "thirdperson_righthand": {
@@ -108,8 +108,6 @@
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 636},                "model": "item/adamantium_crossbow_firework"},
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 637},                "model": "item/diamond_crossbow_firework"},
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 638},                "model": "item/onyx_crossbow_firework"},
-        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_firework"},
-
-        {"predicate": {"charged": 1, "firework": 1},"model": "item/crossbow_firework"}
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_firework"}
     ]
 }
