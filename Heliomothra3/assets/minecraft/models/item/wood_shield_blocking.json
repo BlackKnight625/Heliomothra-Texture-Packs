@@ -1,5 +1,5 @@
 {
-    "parent": "item/shield_circle",
+    "parent": "item/shield_circle_blocking",
     "textures": {
         "particle": "item/wood_shield",
 	    "texture": "item/wood_shield"

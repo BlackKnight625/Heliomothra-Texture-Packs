@@ -1,0 +1,7 @@
+{
+    "parent": "item/shield_circle_blocking",
+    "textures": {
+        "particle": "item/quartz_shield",
+	    "texture": "item/quartz_shield"
+    }
+}

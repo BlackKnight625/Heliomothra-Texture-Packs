@@ -1,5 +1,5 @@
 {
-    "parent": "item/shield_3points",
+    "parent": "item/shield_3points_blocking",
     "textures": {
         "particle": "item/onyx_shield",
 	    "texture": "item/onyx_shield"

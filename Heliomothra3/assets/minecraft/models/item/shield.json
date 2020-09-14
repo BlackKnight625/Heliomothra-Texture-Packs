@@ -365,19 +365,19 @@
 		{"predicate": {"custom_model_data":639}, "model": "item/heliocolium_shield"},
 
 		{"predicate": {"blocking":1}, "model": "item/wood_shield_blocking"},
-		{"predicate": {"custom_model_data":625, "blocking":1}, "model": "item/wood_shield"},
-		{"predicate": {"custom_model_data":627, "blocking":1}, "model": "item/gold_shield"},
-		{"predicate": {"custom_model_data":628, "blocking":1}, "model": "item/tin_shield"},
-		{"predicate": {"custom_model_data":629, "blocking":1}, "model": "item/copper_shield"},
-		{"predicate": {"custom_model_data":630, "blocking":1}, "model": "item/bronze_shield"},
-		{"predicate": {"custom_model_data":632, "blocking":1}, "model": "item/iron_shield"},
-		{"predicate": {"custom_model_data":633, "blocking":1}, "model": "item/prismarine_shield"},
-		{"predicate": {"custom_model_data":634, "blocking":1}, "model": "item/quartz_shield"},
-		{"predicate": {"custom_model_data":635, "blocking":1}, "model": "item/mithril_shield"},
-		{"predicate": {"custom_model_data":636, "blocking":1}, "model": "item/adamantium_shield"},
-		{"predicate": {"custom_model_data":637, "blocking":1}, "model": "item/diamond_shield"},
-		{"predicate": {"custom_model_data":638, "blocking":1}, "model": "item/onyx_shield"},
-		{"predicate": {"custom_model_data":639, "blocking":1}, "model": "item/heliocolium_shield"}
+		{"predicate": {"custom_model_data":625, "blocking":1}, "model": "item/wood_shield_blocking"},
+		{"predicate": {"custom_model_data":627, "blocking":1}, "model": "item/gold_shield_blocking"},
+		{"predicate": {"custom_model_data":628, "blocking":1}, "model": "item/tin_shield_blocking"},
+		{"predicate": {"custom_model_data":629, "blocking":1}, "model": "item/copper_shield_blocking"},
+		{"predicate": {"custom_model_data":630, "blocking":1}, "model": "item/bronze_shield_blocking"},
+		{"predicate": {"custom_model_data":632, "blocking":1}, "model": "item/iron_shield_blocking"},
+		{"predicate": {"custom_model_data":633, "blocking":1}, "model": "item/prismarine_shield_blocking"},
+		{"predicate": {"custom_model_data":634, "blocking":1}, "model": "item/quartz_shield_blocking"},
+		{"predicate": {"custom_model_data":635, "blocking":1}, "model": "item/mithril_shield_blocking"},
+		{"predicate": {"custom_model_data":636, "blocking":1}, "model": "item/adamantium_shield_blocking"},
+		{"predicate": {"custom_model_data":637, "blocking":1}, "model": "item/diamond_shield_blocking"},
+		{"predicate": {"custom_model_data":638, "blocking":1}, "model": "item/onyx_shield_blocking"},
+		{"predicate": {"custom_model_data":639, "blocking":1}, "model": "item/heliocolium_shield_blocking"}
 		],
 	"display": {
 		"thirdperson_righthand": {

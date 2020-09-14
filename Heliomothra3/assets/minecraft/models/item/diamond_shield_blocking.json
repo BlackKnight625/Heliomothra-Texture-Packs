@@ -1,5 +1,5 @@
 {
-    "parent": "item/shield",
+    "parent": "item/shield_blocking",
     "textures": {
         "particle": "item/diamond_shield",
 	    "texture": "item/diamond_shield"
