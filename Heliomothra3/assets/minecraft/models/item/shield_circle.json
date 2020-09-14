@@ -4,6 +4,7 @@
 		"particle": "item/shield",
 		"texture": "item/shield"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 5, 6.5],
