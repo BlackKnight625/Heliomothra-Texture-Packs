@@ -1,0 +1,7 @@
+{
+    "parent": "item/shield_circle_blocking",
+    "textures": {
+        "particle": "item/ruby_shield",
+	    "texture": "item/ruby_shield"
+    }
+}

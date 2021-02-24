@@ -1,0 +1,7 @@
+{
+    "parent": "item/shield_circle",
+    "textures": {
+        "particle": "item/jade_shield",
+	    "texture": "item/jade_shield"
+    }
+}

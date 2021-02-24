@@ -39,6 +39,11 @@
         {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 637},                              "model": "item/diamond_crossbow"},
         {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 638},                              "model": "item/onyx_crossbow"},
         {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 639},                              "model": "item/heliocolium_crossbow"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 645},                              "model": "item/netherite_crossbow"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 646},                              "model": "item/jade_crossbow"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 647},                              "model": "item/ruby_crossbow"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 648},                              "model": "item/soefium_crossbow"},
+        {"predicate": {"pulling": 0, "charged": 0, "custom_model_data": 649},                              "model": "item/amethyst_crossbow"},
 
         {"predicate": {"pulling": 1, "custom_model_data": 625},                              "model": "item/crossbow_pulling_0"},
         {"predicate": {"pulling": 1, "custom_model_data": 627},                              "model": "item/gold_crossbow_pulling_0"},
@@ -53,6 +58,11 @@
         {"predicate": {"pulling": 1, "custom_model_data": 637},                              "model": "item/diamond_crossbow_pulling_0"},
         {"predicate": {"pulling": 1, "custom_model_data": 638},                              "model": "item/onyx_crossbow_pulling_0"},
         {"predicate": {"pulling": 1, "custom_model_data": 639},                              "model": "item/heliocolium_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 645},                              "model": "item/netherite_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 646},                              "model": "item/jade_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 647},                              "model": "item/ruby_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 648},                              "model": "item/soefium_crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "custom_model_data": 649},                              "model": "item/amethyst_crossbow_pulling_0"},
 
         {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 625},                "model": "item/crossbow_pulling_1"},
         {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 627},                "model": "item/gold_crossbow_pulling_1"},
@@ -67,6 +77,11 @@
         {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 637},                "model": "item/diamond_crossbow_pulling_1"},
         {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 638},                "model": "item/onyx_crossbow_pulling_1"},
         {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 645},                "model": "item/netherite_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 646},                "model": "item/jade_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 647},                "model": "item/ruby_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 648},                "model": "item/soefium_crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 0.58, "custom_model_data": 649},                "model": "item/amethyst_crossbow_pulling_1"},
 
         {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 625},                "model": "item/crossbow_pulling_2"},
         {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 627},                "model": "item/gold_crossbow_pulling_2"},
@@ -81,6 +96,11 @@
         {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 637},                "model": "item/diamond_crossbow_pulling_2"},
         {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 638},                "model": "item/onyx_crossbow_pulling_2"},
         {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 645},                "model": "item/netherite_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 646},                "model": "item/jade_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 647},                "model": "item/ruby_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 648},                "model": "item/soefium_crossbow_pulling_2"},
+        {"predicate": {"pulling": 1, "pull": 1.0, "custom_model_data": 649},                "model": "item/amethyst_crossbow_pulling_2"},
 
         {"predicate": {"charged": 1, "custom_model_data": 625},                "model": "item/crossbow_arrow"},
         {"predicate": {"charged": 1, "custom_model_data": 627},                "model": "item/gold_crossbow_arrow"},
@@ -95,6 +115,12 @@
         {"predicate": {"charged": 1, "custom_model_data": 637},                "model": "item/diamond_crossbow_arrow"},
         {"predicate": {"charged": 1, "custom_model_data": 638},                "model": "item/onyx_crossbow_arrow"},
         {"predicate": {"charged": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 645},                "model": "item/netherite_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 646},                "model": "item/jade_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 647},                "model": "item/ruby_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 648},                "model": "item/soefium_crossbow_arrow"},
+        {"predicate": {"charged": 1, "custom_model_data": 649},                "model": "item/amethyst_crossbow_arrow"},
+
 
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 625},                "model": "item/crossbow_firework"},
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 627},                "model": "item/gold_crossbow_firework"},
@@ -108,6 +134,11 @@
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 636},                "model": "item/adamantium_crossbow_firework"},
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 637},                "model": "item/diamond_crossbow_firework"},
         {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 638},                "model": "item/onyx_crossbow_firework"},
-        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_firework"}
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 639},                "model": "item/heliocolium_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 645},                "model": "item/netherite_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 646},                "model": "item/jade_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 647},                "model": "item/ruby_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 648},                "model": "item/soefium_crossbow_firework"},
+        {"predicate": {"charged": 1, "firework": 1, "custom_model_data": 649},                "model": "item/amethyst_crossbow_firework"}
     ]
 }

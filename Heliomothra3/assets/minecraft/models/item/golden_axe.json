@@ -5,7 +5,6 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data": 638},               "model": "item/onyx_axe"},
-        {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_axe"}
+        {"predicate": {"custom_model_data": 628},               "model": "item/tin_axe"}
         ]
 }

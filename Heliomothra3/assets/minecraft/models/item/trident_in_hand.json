@@ -30,6 +30,12 @@
         {"predicate": {"custom_model_data": 637, "throwing": 0},               "model": "item/diamond_spear_in_hand"},
         {"predicate": {"custom_model_data": 638, "throwing": 0},               "model": "item/onyx_spear_in_hand"},
         {"predicate": {"custom_model_data": 639, "throwing": 0},               "model": "item/heliocolium_spear_in_hand"},
+        {"predicate": {"custom_model_data": 646, "throwing": 0},		       "model": "item/jade_spear_in_hand"},
+        {"predicate": {"custom_model_data": 645, "throwing": 0},		       "model": "item/netherite_spear_in_hand"},
+        {"predicate": {"custom_model_data": 646, "throwing": 0},		       "model": "item/jade_spear_in_hand"},
+        {"predicate": {"custom_model_data": 647, "throwing": 0},		       "model": "item/ruby_spear_in_hand"},
+        {"predicate": {"custom_model_data": 648, "throwing": 0},		       "model": "item/soefium_spear_in_hand"},
+        {"predicate": {"custom_model_data": 649, "throwing": 0},		       "model": "item/amethyst_spear_in_hand"},
 
         {"predicate": {"custom_model_data": 625, "throwing": 1},               "model": "item/wooden_spear_throwing"},
         {"predicate": {"custom_model_data": 626, "throwing": 1},               "model": "item/stone_spear_throwing"},
@@ -44,6 +50,11 @@
         {"predicate": {"custom_model_data": 636, "throwing": 1},               "model": "item/adamantium_spear_throwing"},
         {"predicate": {"custom_model_data": 637, "throwing": 1},               "model": "item/diamond_spear_throwing"},
         {"predicate": {"custom_model_data": 638, "throwing": 1},               "model": "item/onyx_spear_throwing"},
-        {"predicate": {"custom_model_data": 639, "throwing": 1},               "model": "item/heliocolium_spear_throwing"}      
+        {"predicate": {"custom_model_data": 639, "throwing": 1},               "model": "item/heliocolium_spear_throwing"},
+        {"predicate": {"custom_model_data": 645, "throwing": 1},		       "model": "item/netherite_spear_throwing"},
+        {"predicate": {"custom_model_data": 646, "throwing": 1},		       "model": "item/jade_spear_throwing"},
+        {"predicate": {"custom_model_data": 647, "throwing": 1},		       "model": "item/ruby_spear_throwing"},
+        {"predicate": {"custom_model_data": 648, "throwing": 1},		       "model": "item/soefium_spear_throwing"},
+        {"predicate": {"custom_model_data": 649, "throwing": 1},		       "model": "item/amethyst_spear_throwing"}
     ]
 }

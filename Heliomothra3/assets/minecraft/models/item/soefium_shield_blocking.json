@@ -1,0 +1,7 @@
+{
+    "parent": "item/shield_circle_blocking",
+    "textures": {
+        "particle": "item/soefium_shield",
+	    "texture": "item/soefium_shield"
+    }
+}
