@@ -1,0 +1,11 @@
+{
+    "parent": "block/black_glazed_terracotta",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 646
+            },
+            "model": "block/jade_ore"
+        }
+    ]
+}

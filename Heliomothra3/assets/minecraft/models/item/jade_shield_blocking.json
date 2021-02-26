@@ -4,6 +4,7 @@
 		"particle": "item/jade_shield",
 		"texture": "item/jade_shield"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [1, 6, 7],

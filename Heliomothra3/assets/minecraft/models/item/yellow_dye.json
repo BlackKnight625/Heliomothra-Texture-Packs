@@ -5,6 +5,6 @@
 },
 
 "overrides": [
-{"predicate": {"custom_model_data":625}, "model": "item/custom_resource"}
+{"predicate": {"custom_model_data":625}, "model": "item/ruby_gem"}
 ]
 }

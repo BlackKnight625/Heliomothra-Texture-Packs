@@ -4,6 +4,7 @@
 		"particle": "item/ruby_shield",
 		"texture": "item/ruby_shield"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 5, 6.5],

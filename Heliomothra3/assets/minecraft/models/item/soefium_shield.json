@@ -4,6 +4,7 @@
 		"particle": "item/soefium_shield",
 		"texture": "item/soefium_shield"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [1, 9, 7],

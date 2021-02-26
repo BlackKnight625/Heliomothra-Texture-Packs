@@ -4,6 +4,7 @@
 		"particle": "item/netherite_shield",
 		"texture": "item/netherite_shield"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [1, 9, 7],
