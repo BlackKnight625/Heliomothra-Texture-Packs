@@ -9,6 +9,7 @@
 "overrides": [
     {"predicate": {"custom_model_data": 638},               "model": "item/onyx_hoe"},
     {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_hoe"},
+    {"predicate": {"custom_model_data": 645},				"model": "item/netherite_hoe"},
 	{"predicate": {"custom_model_data": 648},				"model": "item/soefium_hoe"}
     ]
 }

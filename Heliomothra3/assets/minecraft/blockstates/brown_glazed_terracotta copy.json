@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/soefium_ore" },
+        "facing=west": { "model": "block/brown_glazed_terracotta" },
+        "facing=north": { "model": "block/ruby_ore" },
+        "facing=east": { "model": "block/brown_glazed_terracotta" }
+    }
+}

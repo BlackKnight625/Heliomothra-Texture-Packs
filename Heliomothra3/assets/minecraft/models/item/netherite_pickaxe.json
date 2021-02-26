@@ -9,6 +9,7 @@
 "overrides": [
     {"predicate": {"custom_model_data": 638},               "model": "item/onyx_pickaxe"},
     {"predicate": {"custom_model_data": 639},               "model": "item/heliocolium_pickaxe"},
+    {"predicate": {"custom_model_data": 645},				"model": "item/netherite_pickaxe"},
 	{"predicate": {"custom_model_data": 648},				"model": "item/soefium_pickaxe"}
     ]
 }

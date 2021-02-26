@@ -3,6 +3,6 @@
         "facing=south": { "model": "block/prismarine_ore" },
         "facing=west": { "model": "block/adamantium_ore" },
         "facing=north": { "model": "block/heliocolium_ore" },
-        "facing=east": { "model": "block/blue_glazed_terracotta" }
+        "facing=east": { "model": "block/jade_ore" }
     }
 }
