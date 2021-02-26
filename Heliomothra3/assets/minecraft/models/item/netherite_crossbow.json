@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "item/netherite_crossbow"
+        "layer0": "item/netherite_crossbow_standby"
     }
 }
