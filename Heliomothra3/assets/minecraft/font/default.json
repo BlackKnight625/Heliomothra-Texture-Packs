@@ -15959,7 +15959,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/disconnected.png",
+      "file": "minecraft:custom/chest.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -15968,7 +15968,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/fire.png",
+      "file": "minecraft:custom/disconnected.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -15977,7 +15977,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/fire2.png",
+      "file": "minecraft:custom/fire.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -15986,7 +15986,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/friend.png",
+      "file": "minecraft:custom/fire2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -15995,7 +15995,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/heart.png",
+      "file": "minecraft:custom/friend.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16004,7 +16004,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/heliomothra_icon.png",
+      "file": "minecraft:custom/heart.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16013,7 +16013,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/jagares.png",
+      "file": "minecraft:custom/heliomothra_icon.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16022,7 +16022,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/laser_beam.png",
+      "file": "minecraft:custom/jagares.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16031,7 +16031,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/lightning.png",
+      "file": "minecraft:custom/laser_beam.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16040,7 +16040,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/message.png",
+      "file": "minecraft:custom/lightning.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16049,7 +16049,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/mining_laser.png",
+      "file": "minecraft:custom/message.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16058,7 +16058,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/party.png",
+      "file": "minecraft:custom/mining_laser.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16067,7 +16067,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/protection.png",
+      "file": "minecraft:custom/party.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16076,7 +16076,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/queue.png",
+      "file": "minecraft:custom/protection.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16085,7 +16085,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/speed_mining.png",
+      "file": "minecraft:custom/queue.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16094,7 +16094,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/sword.png",
+      "file": "minecraft:custom/speed_mining.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16103,7 +16103,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/thrown_picks.png",
+      "file": "minecraft:custom/sword.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16112,7 +16112,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/troll.png",
+      "file": "minecraft:custom/thrown_picks.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16121,7 +16121,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:custom/wither_mob.png",
+      "file": "minecraft:custom/troll.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16130,7 +16130,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank.png",
+      "file": "minecraft:custom/wither_mob.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16139,7 +16139,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank_0.png",
+      "file": "minecraft:rank/admin_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16148,7 +16148,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank_1.png",
+      "file": "minecraft:rank/admin_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16157,7 +16157,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank_2.png",
+      "file": "minecraft:rank/admin_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16166,7 +16166,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank_3.png",
+      "file": "minecraft:rank/admin_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16175,7 +16175,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/admin_rank_4.png",
+      "file": "minecraft:rank/admin_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16184,7 +16184,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank.png",
+      "file": "minecraft:rank/admin_rank_4.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16193,7 +16193,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank_0.png",
+      "file": "minecraft:rank/god_minion_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16202,7 +16202,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank_1.png",
+      "file": "minecraft:rank/god_minion_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16211,7 +16211,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank_2.png",
+      "file": "minecraft:rank/god_minion_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16220,7 +16220,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank_3.png",
+      "file": "minecraft:rank/god_minion_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16229,7 +16229,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/god_minion_rank_4.png",
+      "file": "minecraft:rank/god_minion_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16238,7 +16238,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank.png",
+      "file": "minecraft:rank/god_minion_rank_4.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16247,7 +16247,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank_0.png",
+      "file": "minecraft:rank/helper_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16256,7 +16256,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank_1.png",
+      "file": "minecraft:rank/helper_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16265,7 +16265,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank_2.png",
+      "file": "minecraft:rank/helper_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16274,7 +16274,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank_3.png",
+      "file": "minecraft:rank/helper_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16283,7 +16283,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/helper_rank_4.png",
+      "file": "minecraft:rank/helper_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16292,7 +16292,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank.png",
+      "file": "minecraft:rank/helper_rank_4.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16301,7 +16301,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank_0.png",
+      "file": "minecraft:rank/many_headed_god_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16310,7 +16310,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank_1.png",
+      "file": "minecraft:rank/many_headed_god_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16319,7 +16319,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank_2.png",
+      "file": "minecraft:rank/many_headed_god_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16328,7 +16328,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank_3.png",
+      "file": "minecraft:rank/many_headed_god_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16337,7 +16337,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/many_headed_god_rank_4.png",
+      "file": "minecraft:rank/many_headed_god_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16346,7 +16346,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank.png",
+      "file": "minecraft:rank/many_headed_god_rank_4.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16355,7 +16355,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank_0.png",
+      "file": "minecraft:rank/mod_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16364,7 +16364,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank_1.png",
+      "file": "minecraft:rank/mod_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16373,7 +16373,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank_2.png",
+      "file": "minecraft:rank/mod_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16382,7 +16382,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank_3.png",
+      "file": "minecraft:rank/mod_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16391,7 +16391,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/mod_rank_4.png",
+      "file": "minecraft:rank/mod_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16400,7 +16400,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank.png",
+      "file": "minecraft:rank/mod_rank_4.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16409,7 +16409,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank_0.png",
+      "file": "minecraft:rank/soldier_rank.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16418,7 +16418,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank_1.png",
+      "file": "minecraft:rank/soldier_rank_0.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16427,7 +16427,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank_2.png",
+      "file": "minecraft:rank/soldier_rank_1.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16436,7 +16436,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank_3.png",
+      "file": "minecraft:rank/soldier_rank_2.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -16445,11 +16445,20 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:rank/soldier_rank_4.png",
+      "file": "minecraft:rank/soldier_rank_3.png",
       "ascent": 8,
       "height": 9,
       "chars": [
         "\ue723"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:rank/soldier_rank_4.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue724"
       ]
     }
   ]
