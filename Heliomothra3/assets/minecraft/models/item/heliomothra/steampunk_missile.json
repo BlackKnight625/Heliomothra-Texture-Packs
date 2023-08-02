@@ -1,0 +1,153 @@
+{
+	"credit": "Made with Blockbench, by EnderIzzy124",
+	"textures": {
+		"0": "item/steampunk_missile_texture",
+		"1": "item/missile_thrust",
+		"particle": "item/steampunk_missile_texture"
+	},
+	"elements": [
+		{
+			"name": "missile_body",
+			"from": [7, 7, 0.5],
+			"to": [9, 9, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#0"},
+				"east": {"uv": [14, 0, 0, 2], "texture": "#0"},
+				"south": {"uv": [1, 7, 3, 9], "texture": "#1"},
+				"west": {"uv": [0, 0, 14, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 14, 1], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [14, 2, 0, 1], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "missile_tip_2",
+			"from": [6.999, 6.999, -0.501],
+			"to": [9.001, 9.001, 0.501],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [1, 0, 0, 2], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [1, 7, 1, 9], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 1, 2], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [1, 2, 0, 1], "rotation": 90, "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "missile_tip",
+			"from": [6.5, 6.5, 0.5],
+			"to": [9.5, 9.5, 3.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 3]},
+			"faces": {
+				"north": {"uv": [0, 7, 3, 10], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [3, 3, 0, 6], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [7, 6, 4, 3], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [15, 11, 12, 14], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "top_fin",
+			"from": [8, 9, 8.5],
+			"to": [8, 12, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8.5]},
+			"faces": {
+				"east": {"uv": [15, 3, 8, 6], "texture": "#0"},
+				"west": {"uv": [8, 3, 15, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bottom_fin",
+			"from": [8, 4, 8.5],
+			"to": [8, 7, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8.5]},
+			"faces": {
+				"east": {"uv": [15, 6, 8, 3], "texture": "#0"},
+				"west": {"uv": [8, 6, 15, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "thrust_1",
+			"from": [8, 6, 14.5],
+			"to": [8, 10, 26.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 13]},
+			"faces": {
+				"east": {"uv": [12, 10, 0, 6], "texture": "#1"},
+				"west": {"uv": [0, 6, 12, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thrust_2",
+			"from": [6, 8, 14.5],
+			"to": [10, 8, 26.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 13]},
+			"faces": {
+				"up": {"uv": [12, 10, 0, 6], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 6, 12, 10], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "body_extension",
+			"from": [6.5, 6.5, 3.5],
+			"to": [9.5, 9.5, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 4.5]},
+			"faces": {
+				"east": {"uv": [4, 7, 8, 10], "texture": "#0"},
+				"south": {"uv": [4, 12, 7, 15], "texture": "#0"},
+				"west": {"uv": [4, 7, 8, 10], "texture": "#0"},
+				"up": {"uv": [0, 12, 3, 16], "texture": "#0"},
+				"down": {"uv": [8, 12, 11, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [109.61, 39.47, 0.94],
+			"translation": [-0.25, -1, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [109.61, 39.47, 0.94],
+			"translation": [-0.25, -1, -0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [9, -29, -3],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [9, -29, -3],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-90, -135, -90],
+			"translation": [0.5, 0.5, 0],
+			"scale": [1.24, 1.24, 1.24]
+		},
+		"head": {
+			"translation": [0, -6.4, -0.75],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [-0.5, 0.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "missile",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4, 5, 6, 7]
+		}
+	]
+}

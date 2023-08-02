@@ -1,0 +1,109 @@
+{
+	"credit": "Made with Blockbench, by EnderIzzy124",
+	"textures": {
+		"0": "item/laser_sword_texture_dyeable",
+		"particle": "item/laser_sword_texture_dyeable"
+	},
+	"elements": [
+		{
+			"name": "handle",
+			"from": [5.5, 7.5, 7.5],
+			"to": [10.5, 8.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 4, 0, 3], "texture": "#0"},
+				"south": {"uv": [5, 4, 0, 3], "texture": "#0"},
+				"up": {"uv": [5, 4, 0, 3], "texture": "#0"},
+				"down": {"uv": [5, 4, 0, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_guard",
+			"from": [5, 7, 7],
+			"to": [6, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [1, 5, 2, 7], "texture": "#0"},
+				"east": {"uv": [0, 6, 2, 8], "texture": "#0"},
+				"south": {"uv": [0, 5, 1, 7], "texture": "#0"},
+				"west": {"uv": [0, 5, 2, 7], "texture": "#0"},
+				"up": {"uv": [0, 5, 2, 6], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 6, 2, 7], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_guard",
+			"from": [10, 7, 7],
+			"to": [11, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 1, 7], "texture": "#0"},
+				"east": {"uv": [2, 5, 0, 7], "texture": "#0"},
+				"south": {"uv": [1, 5, 0, 7], "texture": "#0"},
+				"west": {"uv": [2, 6, 0, 8], "texture": "#0"},
+				"up": {"uv": [0, 6, 2, 5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 7, 2, 6], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_blade",
+			"from": [-8, 8, 7],
+			"to": [5, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 8]},
+			"faces": {
+				"up": {"uv": [13, 2, 0, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [13, 0, 0, 2], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "right_blade",
+			"from": [11, 8, 7],
+			"to": [24, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 13, 2], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [0, 2, 13, 0], "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 90],
+			"translation": [0, -2, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 117]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 117]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [-90, -45, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 45, -180],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "laser_sword",
+			"origin": [5.5, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

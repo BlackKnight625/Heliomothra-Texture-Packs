@@ -1,5 +1,34 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/leather_boots"}
+        "layer0": "item/leather_boots"},
+        "overrides": [
+            { "predicate": {"custom_model_data": 1}, "model": "item/heliomothra/arcane_hoverboard"},
+            { "predicate": {"custom_model_data": 2}, "model": "item/heliomothra/biplane"},
+            { "predicate": {"custom_model_data": 3}, "model": "item/heliomothra/blimp"},
+            { "predicate": {"custom_model_data": 4}, "model": "item/heliomothra/desert_fighter"},
+            { "predicate": {"custom_model_data": 5}, "model": "item/heliomothra/desert_missile"},
+            { "predicate": {"custom_model_data": 6}, "model": "item/heliomothra/dragon_plane"},
+            { "predicate": {"custom_model_data": 7}, "model": "item/heliomothra/dragon_missile"},
+            { "predicate": {"custom_model_data": 8}, "model": "item/heliomothra/fancy_jet"},
+            { "predicate": {"custom_model_data": 9}, "model": "item/heliomothra/fancy_missile"},
+            { "predicate": {"custom_model_data": 10}, "model": "item/heliomothra/fancy_tesla_coil"},
+            { "predicate": {"custom_model_data": 11}, "model": "item/heliomothra/grappling_hook"},
+            { "predicate": {"custom_model_data": 12}, "model": "item/heliomothra/large_energy_ball"},
+            { "predicate": {"custom_model_data": 13}, "model": "item/heliomothra/laser_sword_1"},
+            { "predicate": {"custom_model_data": 14}, "model": "item/heliomothra/laser_sword_2"},
+            { "predicate": {"custom_model_data": 15}, "model": "item/heliomothra/laser_sword_3"},
+            { "predicate": {"custom_model_data": 16}, "model": "item/heliomothra/laser_sword_4"},
+            { "predicate": {"custom_model_data": 17}, "model": "item/heliomothra/laser_sword_5"},
+            { "predicate": {"custom_model_data": 18}, "model": "item/heliomothra/laser_sword_6"},
+            { "predicate": {"custom_model_data": 19}, "model": "item/heliomothra/laser_sword_7"},
+            { "predicate": {"custom_model_data": 20}, "model": "item/heliomothra/laser_sword_8"},
+            { "predicate": {"custom_model_data": 21}, "model": "item/heliomothra/laser_sword_9"},
+            { "predicate": {"custom_model_data": 22}, "model": "item/heliomothra/magitech_missile"},
+            { "predicate": {"custom_model_data": 23}, "model": "item/heliomothra/missile"},
+            { "predicate": {"custom_model_data": 24}, "model": "item/heliomothra/nature_missile"},
+            { "predicate": {"custom_model_data": 25}, "model": "item/heliomothra/small_energy_ball"},
+            { "predicate": {"custom_model_data": 26}, "model": "item/heliomothra/steampunk_missile"},
+            { "predicate": {"custom_model_data": 27}, "model": "item/heliomothra/tesla_coil"}
+          ]
 }
