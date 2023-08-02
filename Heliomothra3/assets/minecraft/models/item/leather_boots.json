@@ -29,6 +29,7 @@
             { "predicate": {"custom_model_data": 24}, "model": "item/heliomothra/nature_missile"},
             { "predicate": {"custom_model_data": 25}, "model": "item/heliomothra/small_energy_ball"},
             { "predicate": {"custom_model_data": 26}, "model": "item/heliomothra/steampunk_missile"},
-            { "predicate": {"custom_model_data": 27}, "model": "item/heliomothra/tesla_coil"}
+            { "predicate": {"custom_model_data": 27}, "model": "item/heliomothra/tesla_coil"},
+            { "predicate": {"custom_model_data": 28}, "model": "item/leather_boots"}
           ]
 }
